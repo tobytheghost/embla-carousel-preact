@@ -1,0 +1,16 @@
+{
+  "name": "embla-carousel-preact",
+  "version": "0.0.6",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "keywords": [],
+  "author": "Toby Gates",
+  "license": "ISC",
+  "dependencies": {
+    "embla-carousel": "^6.2.0",
+    "preact": "^10.8.2"
+  }
+}
